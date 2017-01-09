@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1477060989 source:f:\c\maze\winmaze\main.cpp
+	"Menu.h"
+	"Maze.h"
+
+1477060810 f:\c\maze\winmaze\menu.h
+	<graphics.h>
+
+1477060891 f:\c\maze\winmaze\maze.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<graphics.h>
+
+1475933488 f:\c\maze\winmaze\mazetree.h
+
+1475929570 f:\c\maze\winmaze\random.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1476192358 f:\c\maze\winmaze\demo.h
+
